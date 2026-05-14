@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">जन औषधी फाइंडर</string>
+    <string name="language">भाषा</string>
+    <string name="select_language">भाषा निवडा</string>
+    <string name="language_english">इंग्रजी</string>
+    <string name="language_hindi">हिंदी</string>
+    <string name="language_telugu">तेलुगू</string>
+    <string name="language_tamil">तमिळ</string>
+    <string name="language_kannada">कन्नड</string>
+    <string name="language_marathi">मराठी</string>
+    <string name="home_title">जन औषधी फाइंडर</string>
+    <string name="home_subtitle">कमी किमतीची जेनेरिक औषधे शोधा आणि बचत तुलना करा.</string>
+    <string name="savings_summary">बचत सारांश</string>
+    <string name="selected_medicines">निवडलेली औषधे</string>
+    <string name="search_title">औषध शोध</string>
+    <string name="search_subtitle">ब्रँडेड औषधे आणि जेनेरिक पर्याय शोधा.</string>
+    <string name="nearby_stores">जवळची केंद्रे</string>
+    <string name="map_subtitle">तुमच्या जवळची जन औषधी केंद्रे शोधा.</string>
+    <string name="reminder_title">रिफिल स्मरणपत्रे</string>
+    <string name="reminder_subtitle">नियमित औषधांसाठी मासिक रिफिल अलर्ट जोडा.</string>
+</resources>

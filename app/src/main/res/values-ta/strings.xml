@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ஜன் ஔஷதி ஃபைண்டர்</string>
+    <string name="language">மொழி</string>
+    <string name="select_language">மொழியைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="language_english">ஆங்கிலம்</string>
+    <string name="language_hindi">இந்தி</string>
+    <string name="language_telugu">தெலுங்கு</string>
+    <string name="language_tamil">தமிழ்</string>
+    <string name="language_kannada">கன்னடம்</string>
+    <string name="language_marathi">மராத்தி</string>
+    <string name="home_title">ஜன் ஔஷதி ஃபைண்டர்</string>
+    <string name="home_subtitle">குறைந்த விலை ஜெனரிக் மருந்துகளை கண்டறிந்து சேமிப்பை ஒப்பிடுங்கள்.</string>
+    <string name="savings_summary">சேமிப்பு சுருக்கம்</string>
+    <string name="selected_medicines">தேர்ந்தெடுத்த மருந்துகள்</string>
+    <string name="search_title">மருந்து தேடல்</string>
+    <string name="search_subtitle">பிராண்டு மருந்துகள் மற்றும் ஜெனரிக் மாற்றுகளை கண்டறியுங்கள்.</string>
+    <string name="nearby_stores">அருகிலுள்ள மையங்கள்</string>
+    <string name="map_subtitle">உங்கள் அருகிலுள்ள ஜன் ஔஷதி மையங்களை கண்டறியுங்கள்.</string>
+    <string name="reminder_title">ரீஃபில் நினைவூட்டல்கள்</string>
+    <string name="reminder_subtitle">தொடர்ந்து எடுக்கும் மருந்துகளுக்கு மாதாந்திர நினைவூட்டல் சேர்க்கவும்.</string>
+</resources>

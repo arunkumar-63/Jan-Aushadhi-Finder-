@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ಜನ ಔಷಧಿ ಫೈಂಡರ್</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="select_language">ಭಾಷೆ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="language_english">ಇಂಗ್ಲಿಷ್</string>
+    <string name="language_hindi">ಹಿಂದಿ</string>
+    <string name="language_telugu">ತೆಲುಗು</string>
+    <string name="language_tamil">ತಮಿಳು</string>
+    <string name="language_kannada">ಕನ್ನಡ</string>
+    <string name="language_marathi">ಮರಾಠಿ</string>
+    <string name="home_title">ಜನ ಔಷಧಿ ಫೈಂಡರ್</string>
+    <string name="home_subtitle">ಕಡಿಮೆ ಬೆಲೆಯ ಜನರಿಕ್ ಔಷಧಿಗಳನ್ನು ಹುಡುಕಿ ಮತ್ತು ಉಳಿತಾಯ ಹೋಲಿಸಿ.</string>
+    <string name="savings_summary">ಉಳಿತಾಯ ಸಾರಾಂಶ</string>
+    <string name="selected_medicines">ಆಯ್ಕೆ ಮಾಡಿದ ಔಷಧಿಗಳು</string>
+    <string name="search_title">ಔಷಧಿ ಹುಡುಕಾಟ</string>
+    <string name="search_subtitle">ಬ್ರಾಂಡೆಡ್ ಔಷಧಿ ಮತ್ತು ಜನರಿಕ್ ಪರ್ಯಾಯಗಳನ್ನು ಹುಡುಕಿ.</string>
+    <string name="nearby_stores">ಹತ್ತಿರದ ಕೇಂದ್ರಗಳು</string>
+    <string name="map_subtitle">ನಿಮ್ಮ ಸ್ಥಳದ ಹತ್ತಿರ ಜನ ಔಷಧಿ ಕೇಂದ್ರಗಳನ್ನು ಹುಡುಕಿ.</string>
+    <string name="reminder_title">ರೀಫಿಲ್ ನೆನಪುಗಳು</string>
+    <string name="reminder_subtitle">ನಿಯಮಿತ ಔಷಧಿಗಳಿಗೆ ಮಾಸಿಕ ರೀಫಿಲ್ ಎಚ್ಚರಿಕೆ ಸೇರಿಸಿ.</string>
+</resources>

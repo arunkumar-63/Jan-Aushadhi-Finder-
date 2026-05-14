@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">జన్ ఔషధి ఫైండర్</string>
+    <string name="language">భాష</string>
+    <string name="select_language">భాషను ఎంచుకోండి</string>
+    <string name="language_english">ఇంగ్లీష్</string>
+    <string name="language_hindi">హిందీ</string>
+    <string name="language_telugu">తెలుగు</string>
+    <string name="language_tamil">తమిళం</string>
+    <string name="language_kannada">కన్నడ</string>
+    <string name="language_marathi">మరాఠీ</string>
+    <string name="home_title">జన్ ఔషధి ఫైండర్</string>
+    <string name="home_subtitle">తక్కువ ధర జనరిక్ మందులు కనుగొని, సేవింగ్స్ పోల్చండి.</string>
+    <string name="savings_summary">సేవింగ్స్ సారాంశం</string>
+    <string name="selected_medicines">ఎంచుకున్న మందులు</string>
+    <string name="search_title">మందుల శోధన</string>
+    <string name="search_subtitle">బ్రాండెడ్ మందులు మరియు జనరిక్ ప్రత్యామ్నాయాలు కనుగొనండి.</string>
+    <string name="nearby_stores">సమీప కేంద్రాలు</string>
+    <string name="map_subtitle">మీ ప్రస్తుత స్థానం దగ్గర జన్ ఔషధి కేంద్రాలు కనుగొనండి.</string>
+    <string name="reminder_title">రీఫిల్ రిమైండర్లు</string>
+    <string name="reminder_subtitle">నిత్య మందుల కోసం నెలవారీ రీఫిల్ అలర్ట్లు జోడించండి.</string>
+</resources>

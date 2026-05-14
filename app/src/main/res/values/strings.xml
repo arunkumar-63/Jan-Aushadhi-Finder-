@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Jan-Aushadhi Finder</string>
+    <string name="google_maps_key">AIzaSyB2KfSC_3ONfwUWQNgzQyqyfE_2eMEWkkk</string>
+    <string name="language">Language</string>
+    <string name="select_language">Select language</string>
+    <string name="language_english">English</string>
+    <string name="language_hindi">Hindi</string>
+    <string name="language_telugu">Telugu</string>
+    <string name="language_tamil">Tamil</string>
+    <string name="language_kannada">Kannada</string>
+    <string name="language_marathi">Marathi</string>
+    <string name="home_title">Jan-Aushadhi Finder</string>
+    <string name="home_subtitle">Search affordable generics, compare savings, and keep refills on schedule.</string>
+    <string name="savings_summary">Savings summary</string>
+    <string name="selected_medicines">Selected medicines</string>
+    <string name="search_title">Medicine search</string>
+    <string name="search_subtitle">Find branded medicines and nearby generic alternatives.</string>
+    <string name="nearby_stores">Nearby stores</string>
+    <string name="map_subtitle">Find Jan Aushadhi Kendras around your current location.</string>
+    <string name="reminder_title">Refill reminders</string>
+    <string name="reminder_subtitle">Add monthly refill alerts for medicines you take regularly.</string>
+</resources>
